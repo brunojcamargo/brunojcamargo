@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunojcamargo&show_icons=true&theme=dracula)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojcamargo&layout=compact&theme=dracula)
 
 <br>
