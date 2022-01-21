@@ -8,6 +8,3 @@
 </a>
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunojcamargo&show_icons=true&count_private=true&theme=dracula)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojcamargo&theme=dracula&count_private=true)
