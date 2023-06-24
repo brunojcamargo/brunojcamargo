@@ -7,4 +7,4 @@
 </a>
 
 ---
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojcamargo&hide=HTML,blade,css,PowerShell,Batchfile,Shell,Kotlin,Swift,Objective-c&theme=tokyonight&count_private=true&card_width=1024) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojcamargo&hide=HTML,blade,css,PowerShell,Batchfile,Shell,Kotlin,Swift,Objective-c&theme=tokyonight&count_private=true&card_width=1024)
