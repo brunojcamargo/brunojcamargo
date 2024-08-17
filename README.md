@@ -9,7 +9,7 @@
   
 ## ⚙️ GitHub Analytics
 
-<img width=100% align="left"
+<img width=100% height="233px" align="left"
 src="https://github-readme-streak-stats.herokuapp.com/?user=brunojcamargo&theme=dark&hide_border=false"
 alt="Github Stats"/>
 
