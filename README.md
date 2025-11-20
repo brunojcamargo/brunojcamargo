@@ -6,9 +6,4 @@
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129620557-469dd0b5-c912-453c-813e-d158d180fb40.png" height="20" width="20" />
 </a>
 
-  
-## ⚙️ GitHub Analytics
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brunojcamargo&theme=dark&locale=pt_BR&short_numbers=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
